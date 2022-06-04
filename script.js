@@ -71,7 +71,7 @@ function result() {
     document.getElementById("name").innerHTML =
       "<b>You resemble Iron Man!</b><br><br>Tony Stark is in an ongoing effort to protect the world from the evil forces that he knows are out there.";
     document.getElementById("img").src =
-      "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/350?cb=20190423175213";
+      "hhttps://static.wikia.nocookie.net/a6de4d17-b7d2-4e10-855d-fcf066d043a2/scale-to-width/755";
   } else {
     document.getElementById("name").innerHTML =
       "<b>You resemble Captain America!</b><br><br>Embracing the mantle of team leader, Captain America must find a way to rally The Avengers.";
